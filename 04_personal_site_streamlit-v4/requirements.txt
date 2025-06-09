@@ -1,0 +1,10 @@
+streamlit==1.45.1
+pandas==2.2.3
+matplotlib==3.10.3
+numpy==2.2.6
+Pillow==11.2.1
+scikit-learn
+tensorflow
+nltk
+spacy
+transformers
